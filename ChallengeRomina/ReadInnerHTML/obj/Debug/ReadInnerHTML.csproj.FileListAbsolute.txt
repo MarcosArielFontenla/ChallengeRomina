@@ -1,0 +1,10 @@
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\bin\Debug\ReadInnerHTML.exe.config
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\bin\Debug\ReadInnerHTML.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\bin\Debug\ReadInnerHTML.pdb
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.Form1.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.Properties.Resources.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.csproj.GenerateResource.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\ReadInnerHTML\obj\Debug\ReadInnerHTML.pdb

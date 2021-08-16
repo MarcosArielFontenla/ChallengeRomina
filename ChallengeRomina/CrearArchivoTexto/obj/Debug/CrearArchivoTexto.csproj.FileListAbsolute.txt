@@ -1,0 +1,10 @@
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\bin\Debug\CrearArchivoTexto.exe.config
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\bin\Debug\CrearArchivoTexto.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\bin\Debug\CrearArchivoTexto.pdb
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.frmCreadorArchivo.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.Properties.Resources.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.csproj.GenerateResource.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\CrearArchivoTexto\obj\Debug\CrearArchivoTexto.pdb

@@ -1,0 +1,10 @@
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\bin\Debug\10SecondTask.exe.config
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\bin\Debug\10SecondTask.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\bin\Debug\10SecondTask.pdb
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\10SecondTask.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\_10SecondTask.Form1.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\_10SecondTask.Properties.Resources.resources
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\10SecondTask.csproj.GenerateResource.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\10SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\10SecondTask.exe
+C:\Users\marco\Documents\ChallengeTecnico1Romina\CrearArchivoTexto\10SecondTask\obj\Debug\10SecondTask.pdb
